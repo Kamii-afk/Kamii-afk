@@ -15,7 +15,7 @@
 
 </div>
 
-## My Jobs
+## My Projects
 <div align = center>
 
 ![Kamii-afk's GitHub stats](https://github-stats-extended.vercel.app/api?username=kamii-afk&hide=contribs,prs&theme=dark_github&title_color=ffffff)
